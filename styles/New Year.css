@@ -1,0 +1,49 @@
+.banner-img{
+    position: relative;
+}
+
+.banner-content{
+    position: absolute;
+    top: 160px;
+    right: 200px;
+    font-size: 60px;
+}
+
+.banner-description{
+    position: absolute;
+    top: 430px;
+    right: 200px;
+}
+
+.btn-primary{
+    position: absolute;
+    top: 550px;
+    right: 200px;
+    border-radius: 5px;
+    background: #F15B22;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 550;
+    padding: 20px;
+}
+
+.img-person{
+    margin-left: 190px;
+    margin-top: 200px;
+}
+
+.main-content{
+    position: absolute;
+    top: 1250px;
+    left: 900px;
+    font-size: 45px;
+}
+
+.main-advise{
+    position: absolute;
+    top: 1400px;
+    left: 900px;
+    line-height: 25px;
+}
+
