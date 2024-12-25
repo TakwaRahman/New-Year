@@ -47,3 +47,33 @@
     line-height: 25px;
 }
 
+.main-footer{
+    position: absolute;
+    top: 1520px;
+    left: 926px;
+}
+
+.main-last-tag{
+    position: absolute;
+    top: 1550px;
+    left: 926px;
+}
+
+.main-copper{
+    position: absolute;
+    top: 1580px;
+    left: 926px;
+}
+
+.main-circle{
+    position: absolute;
+    top: 1610px;
+    left: 926px;
+}
+
+.main-text{
+    position: absolute;
+    top: 1640px;
+    left: 926px;
+}
+
