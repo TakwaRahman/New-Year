@@ -77,3 +77,11 @@
     left: 926px;
 }
 
+.section-main{
+    position: absolute;
+    margin-top: 150px;
+    left: 695px;
+    font-size: 40px;
+
+}
+
