@@ -1,6 +1,3 @@
-.banner-img{
-    position: relative;
-}
 
 .banner-content{
     position: absolute;
@@ -118,6 +115,73 @@
 .img-gradient{
     background-image: url('../images/gradient2.png');
 }
+
+footer{
+    display: flex;
+    gap: 100px;
+    background: black;
+    margin-top: 100px;
+    padding: 130px 200px;
+
+}
+
+.footer-column{
+    width: 50%;
+}
+
+.section-title{
+    color: white;
+    text-align: left;
+    font-size: 45px;
+    font-weight:700;
+}
+
+.section-discription{
+    color: white;
+    text-align: left;
+}
+
+.img-fb{
+    margin-top: 30px;
+}
+
+.img-twitter{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.img-youtube{
+    margin-top: 30px;
+    margin-left: 15px;
+}
+
+.footer-discription{
+    color: white;
+    font-size: 30px;
+}
+
+.contact input[type="email"] {
+    background: black;
+    color: white;
+    padding: 18px 35px;
+    border-radius: 5px;
+    width: 100%;
+    font-size: 20px;
+    border-color: white;
+}
+
+.footer-button{
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #FD6E0A;
+    background: white;
+    padding: 15px 30px;
+    margin-top: 15px;
+}
+
+
 
 
 
